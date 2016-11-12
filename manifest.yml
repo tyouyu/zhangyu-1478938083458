@@ -1,7 +1,7 @@
 ---
 applications:
-- name: webchatbot
+- name: zhangyu
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 2e38d5ef-7506-4e38-804e-e83f3cbe6926
+    CONVERSATION_WORKSPACE_ID: 776ba81e-f777-4fde-9719-f189665092f2 
